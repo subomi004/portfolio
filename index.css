@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  font-family: "Poppins", sans-serif;
+  
+  }
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.main-con {
+  background-color: #EDA751;
+  height: 900px;
+  width: 1600px;
+}
+
+.sub-con {
+  position: absolute;
+  width: 1440px;
+  height: 822px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-inline-start: 80px;
+  margin-block-start: 39px;
+  filter: drop-shadow(#b17c3d 0rem 0.1rem 4px);
+  overflow: visible;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  gap: 256px;
+  margin-block-start: 30.5px;
+  margin-inline-start: 119px;
+}
+
+h3 {
+   font-size: 30px;
+   font-weight: bold;
+   color: #EDA751;
+   width: 254px;
+   height: 45px;
+}
+
+nav {
+  display: flex;
+  gap: 40px;
+  margin-block-start: 7.5px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500px;
+}
+
+button {
+  width: 122px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  border: 1px solid #EDA751;
+}
+
+.content {
+  width: 611px;
+  height: 478px;
+  margin-inline-start: 119px;
+  margin-block-start: 234px;
+
+}
+
+h4 {
+  font-size: 50px;
+  font-weight: medium;
+  height: 75px;
+  width: 136px;
+
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: medium;
+  height: 105px;
+  margin-top: -20px;
+}
+
+.job {
+  font-size: 30px;
+  font-weight: lighter;
+  color: #EDA751;
+  display: inline;
+}
+
+p {
+  font-size: 30px;
+  font-weight: medium;
+  color: #676767;
+
+  margin-block-start: 25px;
+  height: 135px;
+  line-height: 45px;
+}
+
+.hire {
+  width: 212px;
+  height: 65px;
+  border-radius: 20px;
+  background-color: #EDA751;
+  margin-block-start: 51px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #ffffff;
+  box-shadow: 0px 10px #f3f1f1;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  gap: 59px;
+}
+
+
+svg {
+  margin-block-start: 92px;
+  border-radius: 20px;
+}
+img {
+  position: absolute;
+  margin-block-start: 77px;
+  margin-inline-start: 47px;
+}
